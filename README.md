@@ -1,5 +1,7 @@
 # empty-vue-two-template
 
+Template with vue 2, postcss, tailwindcss, airbnb, typescript, autoprefixer, eslint, babel
+
 ## Project setup
 ```
 npm install
